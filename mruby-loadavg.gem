@@ -1,0 +1,7 @@
+name: mruby-loadavg
+description: Loadavg class
+author: Satoshi Kojima
+website: https://github.com/skoji/mruby-loadavg
+protocol: git
+repository: https://github.com/skoji/mruby-loadavg.git
+license: MIT
